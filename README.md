@@ -1,4 +1,5 @@
 Pharmaceutical Analysis Project
+
 Overview
 This project utilizes data science and machine learning techniques to analyze pharmaceutical data, focusing on predicting outcomes based on prescription and fulfillment timelines. The goal is to optimize healthcare operations and improve patient care through data-driven insights.
 
@@ -19,25 +20,11 @@ Jupyter Notebooks: Development environment used for interactive data exploration
 Installation
 To run the project locally, ensure you have Python installed along with the necessary libraries:
 
-pip install pandas scikit-learn jupyter
-Clone the repository:
-
-git clone https://github.com/your_username/pharmaceutical-analysis-project.git
-cd pharmaceutical-analysis-project
-Usage
-Data Preparation:
-
-Ensure your dataset (fillreportRawData.csv) is located in the project directory.
-Run Jupyter Notebook:
-
-jupyter notebook
-Navigate to pharmaceutical_analysis.ipynb and open it in your browser.
-
 Execute the Notebook:
 
 Follow the steps outlined in the notebook to preprocess the data, train the k-NN classifier, and evaluate its performance.
-Interpret Results:
 
+Interpret Results:
 Review accuracy scores and predictions to understand how well the model performs in predicting fulfillment statuses based on prescription timelines.
 Contributing
 Contributions are welcome! Please fork the repository, create a new branch, make your enhancements, and submit a pull request.
@@ -46,4 +33,4 @@ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Acknowledgments
-Mention any collaborators or resources that were helpful in completing the project.
+Precision Compounding Pharmacy
