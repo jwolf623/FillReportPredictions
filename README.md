@@ -13,6 +13,7 @@ Machine Learning Model: A k-Nearest Neighbors (k-NN) classifier is implemented t
 Evaluation: Model performance is evaluated using accuracy metrics. The accuracy score reflects how well the model predicts outcomes compared to actual data.
 
 Tools and Technologies
+
 Python: Programming language used for data analysis and machine learning.
 Pandas: Data manipulation and analysis library.
 Scikit-learn: Machine learning library for building and evaluating models.
