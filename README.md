@@ -19,13 +19,9 @@ Jupyter Notebooks: Development environment used for interactive data exploration
 Installation
 To run the project locally, ensure you have Python installed along with the necessary libraries:
 
-bash
-Copy code
 pip install pandas scikit-learn jupyter
 Clone the repository:
 
-bash
-Copy code
 git clone https://github.com/your_username/pharmaceutical-analysis-project.git
 cd pharmaceutical-analysis-project
 Usage
@@ -34,8 +30,6 @@ Data Preparation:
 Ensure your dataset (fillreportRawData.csv) is located in the project directory.
 Run Jupyter Notebook:
 
-bash
-Copy code
 jupyter notebook
 Navigate to pharmaceutical_analysis.ipynb and open it in your browser.
 
