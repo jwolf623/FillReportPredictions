@@ -21,10 +21,6 @@ Jupyter Notebooks: Development environment used for interactive data exploration
 Installation
 To run the project locally, ensure you have Python installed along with the necessary libraries:
 
-Execute the Notebook:
-
-Follow the steps outlined in the notebook to preprocess the data, train the k-NN classifier, and evaluate its performance.
-
 Interpret Results:
 Review accuracy scores and predictions to understand how well the model performs in predicting fulfillment statuses based on prescription timelines.
 Contributing
