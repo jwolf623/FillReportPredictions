@@ -19,7 +19,7 @@ Pandas: Data manipulation and analysis library.
 Scikit-learn: Machine learning library for building and evaluating models.
 Jupyter Notebooks: Development environment used for interactive data exploration and model development.
 Installation
-To run the project locally, ensure you have Python installed along with the necessary libraries:
+To run the project locally, ensure you have Python installed along with the necessary libraries
 
 Interpret Results:
 Review accuracy scores and predictions to understand how well the model performs in predicting fulfillment statuses based on prescription timelines.
