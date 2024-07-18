@@ -26,8 +26,5 @@ Review accuracy scores and predictions to understand how well the model performs
 Contributing:
 Contributions are welcome! Please fork the repository, create a new branch, make your enhancements, and submit a pull request.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 Acknowledgments
 Precision Compounding Pharmacy
