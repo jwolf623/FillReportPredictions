@@ -8,7 +8,7 @@ The project is structured as follows:
 
 Data Preprocessing: Raw data is cleaned and transformed to extract meaningful features. Time-based features are converted into actionable insights (e.g., converting days to hours for accurate prediction).
 
-Machine Learning Model: k Nearest Neighbors was originally chosen but it failed due to its restrictions that it only handles categorical data. A Decision Tree classifier was then implemented to predict fulfillment statuses. This model is chosen for its ability to handle both categorical and continuous data effectively.
+Machine Learning Model: A Decision Tree classifier and regressor was then implemented to predict categorical and continuous fulfillment statuses, respectively. This model is chosen for its ability to handle both categorical and continuous data effectively.
 
 Evaluation: Model performance is evaluated using accuracy metrics. The accuracy score reflects how well the model predicts outcomes compared to actual data.
 
