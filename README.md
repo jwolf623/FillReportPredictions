@@ -8,7 +8,7 @@ The project is structured as follows:
 
 Data Preprocessing: Raw data is cleaned and transformed to extract meaningful features. Time-based features are converted into actionable insights (e.g., converting days to hours for accurate prediction).
 
-Machine Learning Model: A Decision Tree classifier and regressor were then implemented to predict categorical and continuous fulfillment statuses, respectively. This model is chosen for its ability to handle both categorical and continuous data effectively.
+Machine Learning Model: A Decision Tree classifier and regressor were then implemented to predict categorical and continuous fulfillment statuses, respectively. This model is chosen for its ability to handle both categorical and continuous data effectively. Notebook files have been included for both algorithms used, both kNN and Decision Trees.
 
 Evaluation: Model performance is evaluated using accuracy metrics. The accuracy score reflects how well the model predicts outcomes compared to actual data.
 
