@@ -27,4 +27,4 @@ Contributing:
 Contributions are welcome! Please fork the repository, create a new branch, make your enhancements, and submit a pull request.
 
 Acknowledgments
-Precision Compounding Pharmacy
+Precision Compounding Pharmacy & Wellness, Inc.
