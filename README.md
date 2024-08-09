@@ -4,7 +4,6 @@ Overview
 This project utilizes data science and machine learning techniques to analyze pharmaceutical data, focusing on predicting outcomes based on prescription and fulfillment timelines. The goal is to optimize healthcare operations and improve patient care through data-driven insights.
 
 Project Structure
-The project is structured as follows:
 
 Data Preprocessing: Raw data is cleaned and transformed to extract meaningful features. Time-based features are converted into actionable insights (e.g., converting days to hours for accurate prediction).
 
