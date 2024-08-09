@@ -1,7 +1,7 @@
 Pharmaceutical Analysis Project
 
 Overview
-This project utilizes data science and machine learning techniques to analyze pharmaceutical data, focusing on predicting outcomes based on prescription and fulfillment timelines. The goal is to optimize healthcare operations and improve patient care through data-driven insights.
+This project utilizes data science and machine learning techniques to analyze pharmaceutical data, focusing on predicting outcomes based on prescription and fulfillment timelines. The goal is to optimize healthcare operations and improve patient care through data-driven insights. There are multiple fill report files to indicate different stages of the project.
 
 Project Structure
 
