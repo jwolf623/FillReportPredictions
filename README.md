@@ -1,7 +1,7 @@
 Pharmaceutical Analysis Project
 
 Overview
-This project utilizes data science and machine learning techniques to analyze pharmaceutical data, focusing on predicting outcomes based on prescription and fulfillment timelines. The goal is to optimize healthcare operations and improve patient care through data-driven insights. There are multiple fill report files to indicate different stages of the project. The fillreport_DT_MSE.ipynb file contains the project in its most recent form.
+This project utilizes data science and machine learning techniques to analyze pharmaceutical data, focusing on predicting outcomes based on prescription and fulfillment timelines. The goal is to optimize healthcare operations and improve patient care through data-driven insights. There are multiple fill report files to indicate different stages of the project. The fillreport_DT_Checkpoint.ipynb contains the most recent file.
 
 Project Structure
 
