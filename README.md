@@ -24,6 +24,3 @@ Interpret Results:
 Review accuracy scores and predictions to understand how well the model performs in predicting fulfillment statuses based on prescription timelines.
 Contributing:
 Contributions are welcome! Please fork the repository, create a new branch, make your enhancements, and submit a pull request.
-
-Acknowledgments
-Precision Compounding Pharmacy & Wellness, Inc.
